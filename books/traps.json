@@ -1,0 +1,107 @@
+[
+  {
+    "result": "howto_traps",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "traps", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_traps", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "mag_traps",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "traps", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_traps", 10 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 30 ],
+        [ "thread", 30 ],
+        [ "plant_fibre", 30 ],
+        [ "yarn", 30 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_traps",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "traps", 3 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_traps", 30 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 50 ],
+        [ "thread", 50 ],
+        [ "plant_fibre", 50 ],
+        [ "yarn", 50 ]
+      ]
+    ]
+  },
+  {
+    "result": "textbook_traps",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "traps", 6 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_traps", 60 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 80 ],
+        [ "thread", 80 ],
+        [ "plant_fibre", 80 ],
+        [ "yarn", 80 ]
+      ]
+    ]
+  },
+  {
+    "result": "trappers_companion",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "traps", 8 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_traps", 80 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 100 ],
+        [ "thread", 100 ],
+        [ "plant_fibre", 100 ],
+        [ "yarn", 100 ]
+      ]
+    ]
+  }
+]

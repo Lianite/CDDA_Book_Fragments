@@ -1,0 +1,527 @@
+[
+  {
+    "result": "manual_aikido",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_boxing",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_capoeira",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_centipede",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_crane",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_dragon",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_eskrima",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_fencing",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_judo",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_karate",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_krav_maga",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_leopard",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_lizard",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_muay_thai",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_ninjutsu",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_niten",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_scorpion",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_silat",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_snake",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_taekwondo",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_tai_chi",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_tiger",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_toad",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_venom_snake",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_zui_quan",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  }
+]

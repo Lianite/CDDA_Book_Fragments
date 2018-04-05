@@ -1,0 +1,107 @@
+[
+  {
+    "result": "emergency_book",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "firstaid", 8 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_firstaid", 80 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 100 ],
+        [ "thread", 100 ],
+        [ "plant_fibre", 100 ],
+        [ "yarn", 100 ]
+      ]
+    ]
+  },
+  {
+    "result": "mag_firstaid",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "firstaid", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_firstaid", 10 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 30 ],
+        [ "thread", 30 ],
+        [ "plant_fibre", 30 ],
+        [ "yarn", 30 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_first_aid",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "firstaid", 3 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_firstaid", 30 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 50 ],
+        [ "thread", 50 ],
+        [ "plant_fibre", 50 ],
+        [ "yarn", 50 ]
+      ]
+    ]
+  },
+  {
+    "result": "pocket_firstaid",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "firstaid", 2 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_firstaid", 20 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 40 ],
+        [ "thread", 40 ],
+        [ "plant_fibre", 40 ],
+        [ "yarn", 40 ]
+      ]
+    ]
+  },
+  {
+    "result": "textbook_firstaid",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "firstaid", 6 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_firstaid", 60 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 80 ],
+        [ "thread", 80 ],
+        [ "plant_fibre", 80 ],
+        [ "yarn", 80 ]
+      ]
+    ]
+  }
+]

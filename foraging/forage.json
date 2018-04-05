@@ -1,0 +1,69 @@
+[
+  {
+    "id": "forage_spring",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "forage_book_fragments", "prob": 10 }
+    ]
+  },
+  {
+    "id": "forage_summer",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "forage_book_fragments", "prob": 10 }
+    ]
+  },
+  {
+    "id": "forage_autumn",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "forage_book_fragments", "prob": 10 }
+    ]
+  },
+  {
+    "id": "forage_winter",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "forage_book_fragments", "prob": 10 }
+    ]
+  },
+  {
+    "id": "forage_book_fragments",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "book_fragment_archery", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_barter", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_bashing", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_computer", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_cooking", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_cutting", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_dodge", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_driving", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_electronics", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_fabrication", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_firstaid", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_gun", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_launcher", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_martial", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_mechanics", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_melee", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_pistol", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_rifle", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_shotgun", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_smg", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_speech", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_stabbing", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_survival", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_swimming", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_tailor", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_throw", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_traps", "prob": 10, "count-min": 1, "count-max": 1 },
+      { "item": "book_fragment_unarmed", "prob": 10, "count-min": 1, "count-max": 1 }
+    ]
+  }
+]

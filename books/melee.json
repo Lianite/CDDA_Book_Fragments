@@ -1,0 +1,44 @@
+[
+  {
+    "result": "mag_melee",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_melee", 10 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 30 ],
+        [ "thread", 30 ],
+        [ "plant_fibre", 30 ],
+        [ "yarn", 30 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_melee",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "melee", 3 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_melee", 30 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 50 ],
+        [ "thread", 50 ],
+        [ "plant_fibre", 50 ],
+        [ "yarn", 50 ]
+      ]
+    ]
+  }
+]

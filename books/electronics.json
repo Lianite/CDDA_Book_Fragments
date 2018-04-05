@@ -1,0 +1,233 @@
+[
+  {
+    "result": "advanced_electronics",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 5 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 50 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 70 ],
+        [ "thread", 70 ],
+        [ "plant_fibre", 70 ],
+        [ "yarn", 70 ]
+      ]
+    ]
+  },
+  {
+    "result": "mag_electronics",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 10 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 30 ],
+        [ "thread", 30 ],
+        [ "plant_fibre", 30 ],
+        [ "yarn", 30 ]
+      ]
+    ]
+  },
+  {
+    "result": "manual_electronics",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 3 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 30 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 50 ],
+        [ "thread", 50 ],
+        [ "plant_fibre", 50 ],
+        [ "yarn", 50 ]
+      ]
+    ]
+  },
+  {
+    "result": "radio_book",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 8 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 80 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 100 ],
+        [ "thread", 100 ],
+        [ "plant_fibre", 100 ],
+        [ "yarn", 100 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_atomic_battery",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 6 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 60 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 80 ],
+        [ "thread", 80 ],
+        [ "plant_fibre", 80 ],
+        [ "yarn", 80 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_augs",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 5 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 50 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 70 ],
+        [ "thread", 70 ],
+        [ "plant_fibre", 70 ],
+        [ "yarn", 70 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_lab_elec",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 8 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 80 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 100 ],
+        [ "thread", 100 ],
+        [ "plant_fibre", 100 ],
+        [ "yarn", 100 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_mil_augs",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 7 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 70 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 90 ],
+        [ "thread", 90 ],
+        [ "plant_fibre", 90 ],
+        [ "yarn", 90 ]
+      ]
+    ]
+  },
+  {
+    "result": "repeater_mod_guide",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 2 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 20 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 40 ],
+        [ "thread", 40 ],
+        [ "plant_fibre", 40 ],
+        [ "yarn", 40 ]
+      ]
+    ]
+  },
+  {
+    "result": "textbook_electronics",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 6 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 60 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 80 ],
+        [ "thread", 80 ],
+        [ "plant_fibre", 80 ],
+        [ "yarn", 80 ]
+      ]
+    ]
+  },
+  {
+    "result": "textbook_robots",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "electronics", 10 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_electronics", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  }
+]

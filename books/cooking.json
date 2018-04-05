@@ -1,0 +1,464 @@
+[
+  {
+    "result": "adv_chemistry",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 8 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 80 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 100 ],
+        [ "thread", 100 ],
+        [ "plant_fibre", 100 ],
+        [ "yarn", 100 ]
+      ]
+    ]
+  },
+  {
+    "result": "brewing_cookbook",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "cookbook",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 3 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 30 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 50 ],
+        [ "thread", 50 ],
+        [ "plant_fibre", 50 ],
+        [ "yarn", 50 ]
+      ]
+    ]
+  },
+  {
+    "result": "cookbook_human",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "cookbook_italian",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "cookbook_sushi",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "family_cookbook",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 5 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 50 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 70 ],
+        [ "thread", 70 ],
+        [ "plant_fibre", 70 ],
+        [ "yarn", 70 ]
+      ]
+    ]
+  },
+  {
+    "result": "mag_cooking",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 10 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 30 ],
+        [ "thread", 30 ],
+        [ "plant_fibre", 30 ],
+        [ "yarn", 30 ]
+      ]
+    ]
+  },
+  {
+    "result": "mag_glam",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 1 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 10 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 30 ],
+        [ "thread", 30 ],
+        [ "plant_fibre", 30 ],
+        [ "yarn", 30 ]
+      ]
+    ]
+  },
+  {
+    "result": "modern_tanner",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_alpha",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_animal",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_chimera",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_creepy",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_elfa",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_labchem",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 8 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 80 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 100 ],
+        [ "thread", 100 ],
+        [ "plant_fibre", 100 ],
+        [ "yarn", 100 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_maiar",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_medicalmut",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 9 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 110 ],
+        [ "thread", 110 ],
+        [ "plant_fibre", 110 ],
+        [ "yarn", 110 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_raptor",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 10 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "recipe_serum",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 10 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 100 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 120 ],
+        [ "thread", 120 ],
+        [ "plant_fibre", 120 ],
+        [ "yarn", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "scots_cookbook",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 4 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 60 ],
+        [ "thread", 60 ],
+        [ "plant_fibre", 60 ],
+        [ "yarn", 60 ]
+      ]
+    ]
+  },
+  {
+    "result": "textbook_chemistry",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "cooking", 6 ],
+    "time": 1000,
+    "autolearn": true,
+    "components": [
+      [ [ "book_fragment_cooking", 60 ] ],
+      [ [ "leather", 2 ] ],
+      [
+        [ "sinew", 80 ],
+        [ "thread", 80 ],
+        [ "plant_fibre", 80 ],
+        [ "yarn", 80 ]
+      ]
+    ]
+  }
+]

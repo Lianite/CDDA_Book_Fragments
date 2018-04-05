@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "bookfragments",
+    "name": "Book Fragments",
+    "authors": [ "Lianite" ],
+    "maintainers": [ "Lianite" ],
+    "description": "This mod adds torn pages to the distribution of underbrush. Using this, you can have access to all recipes even on a wilderness survival playthrough.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
