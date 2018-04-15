@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_barter", 10 ] ],
+      [ [ "book_fragment_barter", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_barter", 30 ] ],
+      [ [ "book_fragment_barter", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],
@@ -52,7 +52,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_barter", 60 ] ],
+      [ [ "book_fragment_barter", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],

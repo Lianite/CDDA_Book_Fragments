@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 70 ] ],
+      [ [ "book_fragment_fabrication", 14 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 90 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 60 ] ],
+      [ [ "book_fragment_fabrication", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],
@@ -52,7 +52,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 10 ] ],
+      [ [ "book_fragment_fabrication", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -73,7 +73,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 30 ] ],
+      [ [ "book_fragment_fabrication", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],
@@ -94,7 +94,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 40 ] ],
+      [ [ "book_fragment_fabrication", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 40 ],
@@ -115,7 +115,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 50 ] ],
+      [ [ "book_fragment_fabrication", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 70 ],
@@ -136,7 +136,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 60 ] ],
+      [ [ "book_fragment_fabrication", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],
@@ -157,7 +157,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 70 ] ],
+      [ [ "book_fragment_fabrication", 14 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 90 ],
@@ -178,7 +178,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 100 ] ],
+      [ [ "book_fragment_fabrication", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -199,7 +199,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 60 ] ],
+      [ [ "book_fragment_fabrication", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],
@@ -220,7 +220,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 50 ] ],
+      [ [ "book_fragment_fabrication", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 70 ],
@@ -241,7 +241,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 100 ] ],
+      [ [ "book_fragment_fabrication", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -262,7 +262,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 100 ] ],
+      [ [ "book_fragment_fabrication", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -283,7 +283,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 100 ] ],
+      [ [ "book_fragment_fabrication", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -304,7 +304,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 60 ] ],
+      [ [ "book_fragment_fabrication", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],
@@ -325,7 +325,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 90 ] ],
+      [ [ "book_fragment_fabrication", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -346,7 +346,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 70 ] ],
+      [ [ "book_fragment_fabrication", 14 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 90 ],
@@ -367,7 +367,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 100 ] ],
+      [ [ "book_fragment_fabrication", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -388,7 +388,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 100 ] ],
+      [ [ "book_fragment_fabrication", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 100 ],
@@ -409,7 +409,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 70 ] ],
+      [ [ "book_fragment_fabrication", 14 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 90 ],
@@ -430,7 +430,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 20 ] ],
+      [ [ "book_fragment_fabrication", 4 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 40 ],
@@ -451,7 +451,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 80 ] ],
+      [ [ "book_fragment_fabrication", 16 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 100 ],
@@ -472,7 +472,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 10 ] ],
+      [ [ "book_fragment_fabrication", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -493,7 +493,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 30 ] ],
+      [ [ "book_fragment_fabrication", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],
@@ -514,7 +514,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_fabrication", 60 ] ],
+      [ [ "book_fragment_fabrication", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],

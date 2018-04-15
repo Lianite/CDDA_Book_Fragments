@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 80 ] ],
+      [ [ "book_fragment_cooking", 16 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 100 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "book_fragment_cooking", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
@@ -52,7 +52,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 30 ] ],
+      [ [ "book_fragment_cooking", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],
@@ -73,7 +73,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "book_fragment_cooking", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
@@ -94,7 +94,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "book_fragment_cooking", 4 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
@@ -115,7 +115,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "book_fragment_cooking", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
@@ -136,7 +136,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 50 ] ],
+      [ [ "book_fragment_cooking", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 70 ],
@@ -157,7 +157,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 10 ] ],
+      [ [ "book_fragment_cooking", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -178,7 +178,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 10 ] ],
+      [ [ "book_fragment_cooking", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -199,7 +199,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "book_fragment_cooking", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
@@ -220,7 +220,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -241,7 +241,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -262,7 +262,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -283,7 +283,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -304,7 +304,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -325,7 +325,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 80 ] ],
+      [ [ "book_fragment_cooking", 16 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 100 ],
@@ -346,7 +346,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -367,7 +367,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 90 ] ],
+      [ [ "book_fragment_cooking", 18 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 110 ],
@@ -388,7 +388,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 100 ] ],
+      [ [ "book_fragment_cooking", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -409,7 +409,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 100 ] ],
+      [ [ "book_fragment_cooking", 20 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -430,7 +430,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 40 ] ],
+      [ [ "book_fragment_cooking", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
@@ -451,7 +451,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cooking", 60 ] ],
+      [ [ "book_fragment_cooking", 12 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 80 ],

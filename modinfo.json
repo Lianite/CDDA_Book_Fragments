@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "bookfragments",
-    "name": "Book Fragments",
+    "ident": "bookfragments_easy",
+    "name": "Book Fragments - Easy Mode",
     "authors": [ "Lianite" ],
     "maintainers": [ "Lianite" ],
-    "description": "This mod adds torn pages to the distribution of underbrush. Using this, you can have access to all recipes even on a wilderness survival playthrough.",
+    "description": "This mod adds torn pages to the distribution of underbrush. Using this, you can have access to all recipes even on a wilderness survival playthrough. This is the easy version of the mod. Reduced crafting requirements along with increased chances of finding pages makes for a much easier experience.",
     "category": "items",
     "dependencies": [ "dda" ]
   }

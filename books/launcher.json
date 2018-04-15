@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_launcher", 10 ] ],
+      [ [ "book_fragment_launcher", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_launcher", 30 ] ],
+      [ [ "book_fragment_launcher", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],

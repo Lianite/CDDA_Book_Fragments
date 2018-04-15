@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -52,7 +52,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -73,7 +73,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -94,7 +94,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -115,7 +115,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -136,7 +136,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -157,7 +157,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -178,7 +178,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -199,7 +199,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -220,7 +220,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -241,7 +241,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -262,7 +262,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -283,7 +283,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -304,7 +304,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -325,7 +325,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -346,7 +346,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -367,7 +367,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -388,7 +388,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -409,7 +409,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -430,7 +430,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -451,7 +451,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -472,7 +472,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -493,7 +493,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],
@@ -514,7 +514,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_martial", 100 ] ],
+      [ [ "book_fragment_martial", 10 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 120 ],

@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_unarmed", 10 ] ],
+      [ [ "book_fragment_unarmed", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_unarmed", 30 ] ],
+      [ [ "book_fragment_unarmed", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],

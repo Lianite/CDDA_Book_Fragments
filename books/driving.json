@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_driving", 30 ] ]
+      [ [ "book_fragment_driving", 6 ] ]
     ]
   },
   {
@@ -24,7 +24,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_driving", 10 ] ],
+      [ [ "book_fragment_driving", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -45,7 +45,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_driving", 30 ] ],
+      [ [ "book_fragment_driving", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],
@@ -66,7 +66,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_driving", 40 ] ],
+      [ [ "book_fragment_driving", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],

@@ -10,7 +10,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cutting", 10 ] ],
+      [ [ "book_fragment_cutting", 2 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 30 ],
@@ -31,7 +31,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cutting", 30 ] ],
+      [ [ "book_fragment_cutting", 6 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 50 ],
@@ -52,7 +52,7 @@
     "time": 1000,
     "autolearn": true,
     "components": [
-      [ [ "book_fragment_cutting", 40 ] ],
+      [ [ "book_fragment_cutting", 8 ] ],
       [ [ "leather", 2 ] ],
       [
         [ "sinew", 60 ],
